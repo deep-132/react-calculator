@@ -29,3 +29,7 @@ To run the calculator locally on your machine, follow these steps:
 5. Open your web browser and visit `http://localhost:3000` to access the calculator.
 
 Contributions, bug reports, and feature requests are welcome!
+
+Snapshot 
+![image](https://github.com/deep-132/react-calculator/assets/86047138/3b5664f2-936b-48b8-b614-2573ce21460f)
+
